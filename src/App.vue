@@ -30,7 +30,7 @@
       <v-toolbar color="gray" dark fixed app>
         <!-- <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon> -->
         <v-toolbar-title class="app-title">
-          <v-icon color="green" class="far fa-calendar-alt mb-1"></v-icon> EveeSD
+          <v-icon color="green" class="far fa-calendar-alt mb-1"></v-icon> Evee SD
         </v-toolbar-title>
       </v-toolbar>
       <v-content>
@@ -63,6 +63,6 @@ export default {
 }
 
 .app-title{
-  font-family: 'Fontdiner Swanky', cursive;
+  font-family: 'Permanent Marker', cursive;
 }
 </style>
